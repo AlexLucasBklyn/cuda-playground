@@ -1,0 +1,8 @@
+# ninja log v6
+3	52	7519930628095725	build.ninja	b443e1bd35931e97
+1	2223	7519930628267227	CMakeFiles/CudaPlaygrounda.dir/main.cu.obj	548f84c42eb543cf
+2224	3125	7519930650484394	CMakeFiles/CudaPlaygrounda.dir/cmake_device_link.obj	6f5a075f134bb13e
+3125	3324	7519930659495108	CudaPlaygrounda.exe	8541b2cccb03b876
+3	2216	7519931540164161	CMakeFiles/CudaPlaygrounda.dir/main.cu.obj	548f84c42eb543cf
+2216	3061	7519931562290921	CMakeFiles/CudaPlaygrounda.dir/cmake_device_link.obj	6f5a075f134bb13e
+3061	3215	7519931570738915	CudaPlaygrounda.exe	8541b2cccb03b876
